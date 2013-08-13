@@ -1,0 +1,2 @@
+[12-Aug-2013 14:42:10 America/Chicago] PHP Warning:  getimagesize(img/img-profiles/1bd49849241cee5560ffdb168eb6745a.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/djportco/public_html/home.php on line 161
+[12-Aug-2013 14:42:10 America/Chicago] PHP Warning:  getimagesize(img/img-profiles/c0d1c92d719bc5706732725a74030365.jpg) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in /home/djportco/public_html/home.php on line 161
